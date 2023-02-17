@@ -13,7 +13,7 @@
  9. Add a few paragraphs
  10. Switch to the main branch, look at the contents of the **index.html file.**
  11. Switch to the text branch, look at the contents of the **index.html file.**
- 12. After the <h1> tag, add the <h2> tag with arbitrary content. Make a commit.
+ 12. After the tag with arbitrary content. Make a commit.
  13. Switch to the main branch, create a branch named links.
  14. In the <body> thesis, add a link
  15. Make a commit.
