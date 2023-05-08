@@ -1,6 +1,6 @@
 # Prakt
-###**Practicalwork1**
-####1. TASK Working with your own repository
+### **Practicalwork1**
+#### 1. TASK Working with your own repository
       
  1. Create a repository on GitHub
  2. Edit the file **README.md**
@@ -24,4 +24,4 @@
  20. If conflicts arise during the merger, resolve them.
  21. Start the main branch in the repository.
  22. Provide access to the repository to the user
-####2. TASK  Choose three design patterns and write program code that demonstrates the application of three design patterns of your choice
+#### 2. TASK  Choose three design patterns and write program code that demonstrates the application of three design patterns of your choice
